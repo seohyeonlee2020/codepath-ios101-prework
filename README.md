@@ -1,10 +1,10 @@
-# Prework - *ios101-prework-2ndtry*
+# Prework - *ios101-codepath-prework-2ndtry*
 
 Submitted by: **Seohyeon Lee**
 
-**Name of your app** is an app that... [TODO] 
+**ios101-codepath-prework-2ndtry** is an app that lets you change the background color by clicking a button. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -38,9 +38,7 @@ screen reader and accessible color scheme //
 Visual Mockup: https://www.figma.com/file/sxtEgOQOLs7xqBsb30CFpY/Book-Tracker-with-Hashtags-Mockup?type=design&node-id=0%3A1&mode=design&t=gzMm2BnCgVgkunKx-1
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+I had a difficult time integrating the local repository created through xcode with the repository I created manulally.  
 
 ## License
 
