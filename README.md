@@ -15,9 +15,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 [Video Walkthrough. The app screen includes 3 labels with my name (Seohyeon Lee), affiliation (Pomona College), and my dream job (Aspiring Mobile Engineer). The background color changes every time I click an orange button that says "Change".](https://github.com/seohyeonlee2020/codepath-ios101-prework/blob/e5d0995d37bf74557c2e45d4dea61d80e9954cf1/ios-prework.gif)
 
 ## App Brainstorming (Step 4)
